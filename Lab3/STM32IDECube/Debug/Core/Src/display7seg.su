@@ -1,0 +1,5 @@
+display7seg.c:9:6:display7SEG_1	16	static
+display7seg.c:77:6:display7SEG_2	16	static
+display7seg.c:145:6:display7SEG_3	16	static
+display7seg.c:213:6:display7SEG_4	16	static
+display7seg.c:282:6:display7SEG_mode	16	static
